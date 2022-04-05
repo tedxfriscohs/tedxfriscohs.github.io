@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Speakers"
     url: /speakers/
-      #  - title: "Sponsors"
-      #    url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "About TEDx"
     url: /about_tedx/
