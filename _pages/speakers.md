@@ -31,5 +31,6 @@ row2:
     title: "Placeholder 6"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-{% include feature_row id="row1" %}
-{% include feature_row id="row2" %}
+TBA
+<!--{% include feature_row id="row1" %}
+{% include feature_row id="row2" %}-->
