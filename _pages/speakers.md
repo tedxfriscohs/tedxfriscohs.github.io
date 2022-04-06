@@ -32,5 +32,3 @@ row2:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 TBA
-<!--{% include feature_row id="row1" %}
-{% include feature_row id="row2" %}-->
